@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Home - Nina Juustine P. Marzan</title>
+
+</head>
+
+
+
+<body style="font-family: Arial, sans-serif; text-align: center;">
+
+    <div style="padding: 20px;">
+
+        <h1>Welcome!</h1>
+
+        <p>I'm <strong>Nina Juustine P. Marzan</strong>, a dedicated model with experience across various photoshoots, brand endorsements, and creative collaborations.</p>
+
+        <p>Here, you'll find a collection of my work, along with details on how we can connect and create something extraordinary together.</p>
+
+    </div>
+
+</body>
+
+
+
+</html>

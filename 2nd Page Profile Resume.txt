@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Profile - Nina Juustine P. Marzan</title>
+
+</head>
+
+
+
+<body style="font-family: Arial, sans-serif;">
+
+    <div style="padding: 20px; max-width: 600px; margin: auto;">
+
+        <h1>About Me</h1>
+
+        <p>Hi, I’m Nina Juustine P. Marzan, a 22-year-old Analyst at Shopee and a second-year BS IT student. I am constantly learning and growing within this exciting field.</p>
+
+        <p>Outside of academics and work, I’m a varsity table tennis player. Balancing work, studies, and sports has taught me resilience, discipline, and teamwork, values I bring into every aspect of my life.</p>
+
+        <h2>Modeling Services</h2>
+
+        <ul>
+
+            <li><strong>Fashion and Editorial Modeling</strong> – Bringing style to magazine spreads and high-fashion projects.</li>
+
+            <li><strong>Commercial Modeling</strong> – Engaging audiences in lifestyle and product photography.</li>
+
+            <li><strong>Brand Endorsements</strong> – Helping brands connect authentically with their audience.</li>
+
+            <li><strong>Event Modeling</strong> – Adding a professional touch to events and product launches.</li>
+
+        </ul>
+
+    </div>
+
+</body>
+
+
+
+</html>

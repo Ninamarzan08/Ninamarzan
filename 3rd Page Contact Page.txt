@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Contact - Nina Justine P. Marzan</title>
+
+</head>
+
+
+
+<body style="font-family: Arial, sans-serif; text-align: center;">
+
+    <div style="padding: 20px; max-width: 400px; margin: auto;">
+
+        <h1>Contact Me</h1>
+
+        <form action="/submit-contact" method="post">
+
+            <div style="margin-bottom: 10px;">
+
+                <label for="name">Full Name:</label><br>
+
+                <input type="text" id="name" name="name" value="Nina Juustine P. Marzan" style="width: 100%; padding: 8px;">
+
+            </div>
+
+            <div style="margin-bottom: 10px;">
+
+                <label for="email">Email Address:</label><br>
+
+                <input type="email" id="email" name="email" value="Ninamarzan03@gmail.com" style="width: 100%; padding: 8px;">
+
+            </div>
+
+            <div style="margin-bottom: 10px;">
+
+                <label for="phone">Phone Number:</label><br>
+
+                <input type="tel" id="phone" name="phone" value="09178458629" style="width: 100%; padding: 8px;">
+
+            </div>
+
+            <div style="margin-bottom: 10px;">
+
+                <label for="availability">Preferred Contact Date:</label><br>
+
+                <input type="date" id="availability" name="availability" style="width: 100%; padding: 8px;">
+
+            </div>
+
+            <div style="margin-bottom: 10px;">
+
+                <label for="message">Message:</label><br>
+
+                <textarea id="message" name="message" placeholder="Please provide details about the project." style="width: 100%; padding: 8px; height: 80px;"></textarea>
+
+            </div>
+
+            <button type="submit" style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Submit</button>
+
+        </form>
+
+    </div>
+
+</body>
+
+
+
+</html>
+

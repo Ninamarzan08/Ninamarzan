@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Nina Juustine P. Marzan</title>
+</head>
+
+<body style="font-family: Arial, sans-serif; text-align: center;">
+    <div style="padding: 20px;">
+        <h1>My Services</h1>
+        <ul style="list-style: none; padding: 0;">
+            <li style="padding: 10px; border-bottom: 1px solid #ccc;"><strong>Fashion and Editorial Modeling</strong> – Bringing style to magazine spreads and high-fashion projects.</li>
+            <li style="padding: 10px; border-bottom: 1px solid #ccc;"><strong>Commercial Modeling</strong> – Engaging audiences in lifestyle and product photography.</li>
+            <li style="padding: 10px; border-bottom: 1px solid #ccc;"><strong>Brand Endorsements</strong> – Helping brands connect authentically with their audience.</li>
+            <li style="padding: 10px;"><strong>Event Modeling</strong> – Adding a professional touch to events and product launches.</li>
+        </ul>
+    </div>
+</body>
+
+</html>
